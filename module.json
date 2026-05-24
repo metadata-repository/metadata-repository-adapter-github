@@ -1,0 +1,9 @@
+{
+  "name": "metadata-repository-adapter-github",
+  "description": "GitHub-backed storage adapter for the metadata repository",
+  "version": "0.1.0",
+  "dependencies": {
+    "metadata-error": "0.1.0",
+    "metadata-repository-adapter": "0.1.0"
+  }
+}
